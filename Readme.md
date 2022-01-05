@@ -2,9 +2,9 @@
 > from Korea, studying Cyber Security, Interested in REV, PWN, MONEY with BUGBOUNTY
 ---
 
-`Github  blog` : <a href="http://blog.snwo.fun" target="_blank"><img src="https://img.shields.io/badge/Blog-white?style=for-the-badg&logo=GitHub&logoColor=000000"/></a><br>
+`Github  blog` : <a href="http://blog.snwo.fun" target="_blank"><img src="https://img.shields.io/badge/Blog-white?style=for-the-badge&logo=GitHub&logoColor=000000"/></a><br>
 
-`Tistory blog` : <a href="https://snwo.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-white?style=for-the-badg&logo=Directus&logoColor=000000"/></a><br><br>
+`Tistory blog` : <a href="https://snwo.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-white?style=for-the-badge&logo=Directus&logoColor=000000"/></a><br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=snwox&show_icons=true" height=165 />
 
