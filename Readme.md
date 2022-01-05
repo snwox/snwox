@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/badge/GitHub-green?style=flat&logo=GitHub&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=GitHub&logoColor=FFFFFF"/>
 
 
 ![snwo's github stats](https://github-readme-stats.vercel.app/api?username=snwox&show_icons=true)
