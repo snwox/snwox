@@ -1,5 +1,5 @@
 
-<a href="http://blog.snwo.fun"><img src="https://img.shields.io/badge/Blog-white?style=for-the-badg&logo=GitHub&logoColor=000000"/></a>
+<a href="http://blog.snwo.fun" target="_blank"><img src="https://img.shields.io/badge/Blog-white?style=for-the-badg&logo=GitHub&logoColor=000000"/></a>
 
 
 ![snwo's github stats](https://github-readme-stats.vercel.app/api?username=snwox&show_icons=true)
