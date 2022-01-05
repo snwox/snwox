@@ -11,6 +11,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=snwox)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=omh02033">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=omh">
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=snwox" height="165">
