@@ -1,5 +1,5 @@
 # snwo
-> from Korea, studying cyber security, interested in REV, PWN, MONEY
+> from Korea, studying cyber security, interested in REV, PWN, MONEY with BUGBOUNTY
 ---
 
 `Github  blog` : <a href="http://blog.snwo.fun" target="_blank"><img src="https://img.shields.io/badge/Blog-white?style=for-the-badg&logo=GitHub&logoColor=000000"/></a><br>
