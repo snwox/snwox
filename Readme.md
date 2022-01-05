@@ -1,6 +1,6 @@
 ---
 
-github  blog : <a href="http://blog.snwo.fun" target="_blank"><img src="https://img.shields.io/badge/Blog-white?style=for-the-badg&logo=GitHub&logoColor=000000"/></a>
+github  blog : <a href="http://blog.snwo.fun" target="_blank"><img src="https://img.shields.io/badge/Blog-white?style=for-the-badg&logo=GitHub&logoColor=000000"/></a><br>
 tistory blog : <a href="https://snwo.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-white?style=for-the-badg&logo=Directus&logoColor=000000"/></a>
 
 ![snwo's github stats](https://github-readme-stats.vercel.app/api?username=snwox&show_icons=true)
