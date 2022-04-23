@@ -6,7 +6,7 @@
 
 `Tistory blog` : <a href="https://snwo.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-white?style=for-the-badge&logo=Directus&logoColor=000000"/></a><br><br>
 
-`Introduce`  : [Link](http://snwo.fun) 
+`Introduce`  : [Link](http://blog.snwo.fun/about) 
 
 <img src="https://github-readme-stats.vercel.app/api?username=snwox&show_icons=true" height=165 />
 
